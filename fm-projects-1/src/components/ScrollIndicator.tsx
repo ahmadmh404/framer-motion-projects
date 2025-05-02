@@ -9,7 +9,7 @@ export const ScrollIndicator = () => {
     <div className="h-[200vh] p-5">
       {/* Red Line */}
       <motion.div
-        className="fixed top-0 left-0 h-[3px] bg-red-500"
+        className="fixed top-0 left-0 h-[px] bg-red-500"
         style={{ width: lineWidth, transition: "width 0.2 ease" }}
       />
 
