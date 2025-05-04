@@ -4,10 +4,10 @@ body {
   background: #000;
   color: white;
 }
-
+/* 
 ::-webkit-scrollbar {
   width: 0;
-}
+} */
 /* 
 button {
   background-color: rgba(0, 0, 0, 0.5);
